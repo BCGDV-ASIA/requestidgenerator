@@ -34,7 +34,6 @@ package com.bcgdv;
  *
  * }
  * </pre>
- *  Simon Mittag
  */
 public class AndroidRequestIdGenerator extends RequestIdGenerator {
 

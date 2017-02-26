@@ -4,7 +4,6 @@ import java.util.UUID;
 
 /**
  * Generate HTTP Request IDs
- *  Simon Mittag
  */
 public class RequestIdGenerator {
 
